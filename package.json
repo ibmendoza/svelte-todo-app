@@ -5,8 +5,10 @@
     "dev": "svelvet",
     "build": "NODE_ENV=production svelvet"
   },
+  "dependencies": {
+    "svelte": "^3.20.1"
+  },
   "devDependencies": {
-    "svelte": "^3.20.1",
     "svelvet": "^0.4.1"
   }
 }
